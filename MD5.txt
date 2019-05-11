@@ -1,4 +1,4 @@
-﻿服务器资源目录(https://gitee.com/scimence/ReName/raw/master/)
+﻿服务器资源目录(https://scimence.gitee.io/ReName/)
 本地资源目录(F:\tmp\ReName\)
 
 待更新文件(
