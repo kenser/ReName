@@ -1,0 +1,17 @@
+﻿服务器资源目录(https://gitee.com/scimence/ReName/raw/master/)
+本地资源目录(F:\tmp\ReName\)
+
+待更新文件(
+
+LICENSE(b234ee4d69f5fce4486a80fdaf4a4263)
+README.md(474a727c1ff5c39c1e7934cb748f3fe0)
+ReName.exe(08dd30669bd2b7184bac252b0ba91849)
+files/1.png(1e5678e2c3aaa05bdccca9ce7ea6c5df)
+files/122.png(6bcd847d66df5176f4347f448d7219b9)
+files/123.png(921477a32b36c6e5f3cad4b1149a640c)
+files/124.png(1af97c5160a7bef7fdd7d22cbb0643fc)
+files/2.png(a0abb4894ed9aabe7c5eef6f0addd326)
+files/3.png(fbeecc89471885778b6de4d5a9fb847b)
+files/ReName_20190511_16.05.7z.zip(a3b38fc003b0e2f75a7eb9e0a49cfc74)
+
+)待更新文件
